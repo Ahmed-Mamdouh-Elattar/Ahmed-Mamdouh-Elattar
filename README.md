@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ahmed Mamdouh
 
-<!--
-**Ahmed-Mamdouh-Elattar/Ahmed-Mamdouh-Elattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Ahmed Mamdouh**, a passionate **Flutter Developer**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I specialize in building beautiful and efficient mobile applications using Flutter. I have experience in integrating APIs, working with Firebase, and utilizing Dart to develop high-performance applications. I'm always looking to learn new technologies and improve my skills in the mobile development space.
+
+Feel free to connect with me or reach out if you want to discuss Flutter, mobile development, or tech in general!
+
+## Contact
+- Email: [ahmed.mamdouh.elattar@gmail.com](mailto:ahmed.mamdouh.elattar@gmail.com)
+- LinkedIn: [www.linkedin.com/in/ahmed-mamdouh-3b2966316](https://www.linkedin.com/in/ahmed-mamdouh-3b2966316)
