@@ -22,7 +22,7 @@ I enjoy collaborating on open-source projects and sharing my knowledge with the 
 ## 💼 Projects
 Here are a few of my notable projects:
 
-- [Spotify App]([https://github.com/Ahmed-Mamdouh-Elattar/spotify-app](https://github.com/Ahmed-Mamdouh-Elattar/spotify_app)): A Flutter-based music player app with background audio playback.
+- [Spotify App](https://github.com/Ahmed-Mamdouh-Elattar/spotify_app): A Flutter-based music player app with background audio playback.
 
 ## 💡 Fun Fact
 I love solving complex problems and always look for innovative solutions to improve app performance and user experience. 🎯
