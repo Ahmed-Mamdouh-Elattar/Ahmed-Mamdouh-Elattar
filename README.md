@@ -18,15 +18,11 @@ I enjoy collaborating on open-source projects and sharing my knowledge with the 
 ## 🌐 Connect with Me
 - 📧 Email: [ahmed.mamdouh.elattar@gmail.com](mailto:ahmed.mamdouh.elattar@gmail.com)
 - 🌍 LinkedIn: [www.linkedin.com/in/ahmed-mamdouh-3b2966316](https://www.linkedin.com/in/ahmed-mamdouh-3b2966316)
-## 📚 What I'm Currently Learning
-- **WebRTC in Flutter**: Real-time communication for mobile apps
-- **Advanced Firebase Features**: Cloud Functions, Firestore Security Rules
-- **Design Patterns in Flutter**: Best practices for scalable app architecture
 
 ## 💼 Projects
 Here are a few of my notable projects:
 
-- [Spotify App](https://github.com/Ahmed-Mamdouh-Elattar/spotify-app): A Flutter-based music player app with background audio playback.
+- [Spotify App]([https://github.com/Ahmed-Mamdouh-Elattar/spotify-app](https://github.com/Ahmed-Mamdouh-Elattar/spotify_app)): A Flutter-based music player app with background audio playback.
 
 ## 💡 Fun Fact
 I love solving complex problems and always look for innovative solutions to improve app performance and user experience. 🎯
